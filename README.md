@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am 3rd year students of Informatics in Uniwersity of Lódź. I am mostly interested in Java/mobile development.
 <!--
 **Sandpitturtleee/Sandpitturtleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Tech stack
+## Technologies
+- Java
+- C ++ 
+- Python
+- Git/Github
+- Unity
+## Ongoing projects
+- [Windowed Java Woordle game ](https://github.com/Sandpitturtleee/Woordle)
+## Tools & workspaces
+- Intellij idea
+- Visual Studio Code
+- Android Studio
+- PyCharm
+- Unity 
