@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 - C ++ 
 - Python
 - Git/Github
+- UML
 - Unity
 ## Ongoing projects
 - [Windowed Java Woordle game ](https://github.com/Sandpitturtleee/Woordle)
 ## Tools & workspaces
 - Intellij idea
+- Visual Studio
 - Visual Studio Code
 - Android Studio
 - PyCharm
