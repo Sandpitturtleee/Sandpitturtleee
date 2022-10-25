@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - Unity
 ## Ongoing projects
 - [Windowed Java Woordle game ](https://github.com/Sandpitturtleee/Woordle)
+- [Image to text recognition using Python](https://github.com/Sandpitturtleee/ImageToText)
 ## Tools & workspaces
 - Intellij idea
 - Visual Studio
