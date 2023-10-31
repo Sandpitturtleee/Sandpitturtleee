@@ -15,18 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Technologies
-- Java
 - Python
-- C ++ 
-- Git/Github
+- Java
+- Azure Piepiles
 - UML
-- Unity
+- XML
 ## Ongoing projects
 - [Image to text recognition using Python](https://github.com/Sandpitturtleee/ImageToText)
 ## Tools & workspaces
-- Intellij idea
 - PyCharm
-- Visual Studio
-- Visual Studio Code
-- Android Studio
-- Unity 
+- Intellij idea
+- Git
+- Scrum methodology
+- Azure Devops
